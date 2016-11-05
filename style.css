@@ -1,16 +1,16 @@
 body {
-  background-color: #2f343f;
+  background-color: #282828;
 }
 
 h3 {
-  color: #a5b4c5;
+  color: #ebdbb2;
   font-family: 'Roboto Mono', monospace;
 }
 
 h1 {
   font-family: 'Pacifico', cursive;
   text-align: center;
-  color: #a5b4c5;
+  color: #ebdbb2;
   font-size: 90;
 }
 
@@ -47,11 +47,11 @@ list {
 
 .links {
   text-align: center;
-  color: #2f343f;
+  color: #282828;
   font-family: 'Roboto Mono', monospace;
   text-decoration: none;
   font-weight: bold;
-  background-color: #a5b4c5;
+  background-color: #ebdbb2;
   width: 200px;
   padding: : 0px;
 }
