@@ -2,4 +2,4 @@
 My custom homepage for my browser.
 
 Screenshot:
-![Screenshot](Homepage/homepage-screenshot.png)
+![Screenshot](http://imgur.com/a/T9o12)
