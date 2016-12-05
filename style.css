@@ -1,5 +1,6 @@
 body {
   background-color: #282828;
+  text-align: center;
 }
 
 h3 {
@@ -24,25 +25,40 @@ list {
   text-decoration: none;
 }
 
-.general {
+.all {
+  display: inline-block;
+  vertical-align: top;
+  align-self: center;
+  margin-left: 1em;
+}
+
+.all:nth-child(1) {
+  margin-left: 0;
+}
+
+.title {
   text-align: center;
+  width: 12em;
+}
+
+.google {
   background-color: #cc241d;
-  width: 200px;
-  padding: 0px;
 }
 
 .reddit {
-  text-align: center;
   background-color: #458588;
-  width: 200px;
-  padding: 0px;
 }
 
 .programming {
-  text-align: center;
   background-color: #689d6a;
-  width: 200px;
-  padding: 0px;
+}
+
+.gaming {
+  background-color: #d65d0e;
+}
+
+.linux {
+  background-color: #98971a;
 }
 
 .links {
@@ -52,6 +68,5 @@ list {
   text-decoration: none;
   font-weight: bold;
   background-color: #ebdbb2;
-  width: 200px;
-  padding: : 0px;
+  width: 12em;
 }
